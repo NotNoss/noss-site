@@ -1,0 +1,58 @@
+baseURL = 'https://itsnoss.com/'
+languageCode = 'en-us'
+title = 'Noss'
+
+[params]
+  goToTop = true
+
+[params.author]
+  avatar = "noss.png"
+  intro = "Noss"
+  name = "Noss"
+  description = "A central location to find my socials, projects, guides and a blog about anything that interests me in tech"
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/NotNoss"
+
+[[params.socialIcons]]
+name = "youtube"
+url = "https://www.youtube.com/channel/UCcxhFIh70r8uwXdfMIhw4Yw"
+
+[[params.socialIcons]]
+name = "twitch"
+url = "https://www.twitch.tv/itsnoss"
+
+[[params.socialIcons]]
+name = "rss"
+url = ""
+
+[menus]
+  [[menus.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+
+  [[menus.main]]
+    name = "Projects"
+    pageref = "/projects/"
+    weight = 20
+
+  [[menus.main]]
+    name = "Guides"
+    pageref = "/guides/"
+    weight = 30
+
+  [[menus.main]]
+    name = "Blog"
+    pageRef = "/blog/"
+    weight = 40
+
+  [[menus.main]]
+    name = "About"
+    pageRef = "/about/"
+    weight = 50
