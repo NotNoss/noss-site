@@ -49,7 +49,7 @@ url = ""
     
   [[menus.main]]
     name = "Reviews
-    pageRef = "/blog/"
+    pageRef = "/reviews/"
     weight = 40
 
   [[menus.main]]
