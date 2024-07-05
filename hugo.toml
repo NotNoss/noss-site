@@ -4,6 +4,8 @@ title = 'Noss'
 
 [params]
   goToTop = true
+  giscusTheme = "preferred_color_scheme"
+  disableComments = false
 
 [params.author]
   avatar = "noss.png"
