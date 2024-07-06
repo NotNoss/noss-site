@@ -1,6 +1,6 @@
 baseURL = 'https://itsnoss.com/'
 languageCode = 'en-us'
-title = 'Noss'
+title = ''
 
 [params]
   goToTop = true
