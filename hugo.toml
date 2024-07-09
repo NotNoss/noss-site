@@ -33,6 +33,9 @@ url = "https://www.twitch.tv/itsnoss"
 name = "rss"
 url = ""
 
+[outputs]
+  home = ["html"]
+
 [menus]
   [[menus.main]]
     name = "Home"

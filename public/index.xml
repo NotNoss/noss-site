@@ -2,45 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noss</title>
-    <link>http://localhost:1313/</link>
+    <link>https://itsnoss.com/</link>
     <description>Recent content on Noss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://itsnoss.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/reviews/keebio-iris-rev-8/</link>
+      <title>About</title>
+      <link>https://itsnoss.com/about/</link>
       <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/reviews/keebio-iris-rev-8/</guid>
-      
-      <description>Overview The Keebio Iris Rev 8 is a split ergonomic keyboard by Keebio. This is my first split or even ergonomic keyboard but I have really enjoyed the month I’ve been using the iris and will likely continue using it but I do now have my eyes on some others with less keys already.
-Purchasing Experience The main part you’re needing from Keebio is the PCB, stand offs and screws (I’m sure you can get your own stand offs and screws as well but I have not looked into it) as they offer files to CNC or 3D print your own case.</description>
-      
-    </item>
-    
-    <item>
-      <title>Keebio Iris Rev 8 Review</title>
-      <link>http://localhost:1313/reviews/keebio-iris-rev-8/keebio-iris-rev-8/</link>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/reviews/keebio-iris-rev-8/keebio-iris-rev-8/</guid>
-      
-      <description>Backstory Since I was 16, I have had back issues. When I was 19, I was officially diagnosed with scholiosis. This causes pain all over my body but can usually start from my lower back or my shoulders/neck area. I actively make changes in my lifestyle in an attempt to avoid the pain that I endur everyday. Two years ago, I was working and couldn&amp;rsquo;t hold my mouse or type on my keyboard without pain shooting through my arms.</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://itsnoss.com/about/</guid>
       
       <description>Noss Hello, I&amp;rsquo;m Noss, a college student studying Computer Science and an IT professional with around 4 years of experience behind me just in the career. My hobby with tech predates that by a long time.
 I am a hobbiest programmer and homelaber.
 This site serves as a place for me to discuss the things I am learning, my experiences and anything else that intrigues me.
 There is no guarantee of anything being added on a schedule due to a busy life working full time and attending college.</description>
+      
+    </item>
+    
+    <item>
+      <title>Keebio Iris Rev 8 Review</title>
+      <link>https://itsnoss.com/reviews/keebio-iris-rev-8/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://itsnoss.com/reviews/keebio-iris-rev-8/</guid>
+      
+      <description>Backstory Since I was 16, I have had back issues. When I was 19, I was officially diagnosed with scholiosis. This causes pain all over my body but can usually start from my lower back or my shoulders/neck area. I actively make changes in my lifestyle in an attempt to avoid the pain that I endur everyday. Two years ago, I was working and couldn&amp;rsquo;t hold my mouse or type on my keyboard without pain shooting through my arms.</description>
       
     </item>
     
