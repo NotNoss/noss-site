@@ -42,15 +42,15 @@ url = ""
     pageRef = "/"
     weight = 10
 
-  [[menus.main]]
-    name = "Projects"
-    pageref = "/projects/"
-    weight = 20
-
-  [[menus.main]]
-    name = "Guides"
-    pageref = "/guides/"
-    weight = 30
+  # [[menus.main]]
+  #   name = "Projects"
+  #   pageref = "/projects/"
+  #   weight = 20
+  #
+  # [[menus.main]]
+  #   name = "Guides"
+  #   pageref = "/guides/"
+  #   weight = 30
     
   [[menus.main]]
     name = "Reviews"
