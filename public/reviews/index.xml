@@ -6,8 +6,15 @@
     <description>Recent content in Reviews on Noss</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zen Browser Review</title>
+      <link>http://localhost:1313/reviews/zen-browser/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reviews/zen-browser/</guid>
+      <description>&lt;p&gt;I would like to make it clear that the below thoughts and opinions are of my own. This is what I have observed in my search for my next browser.&lt;/p&gt;&#xA;&lt;h2 id=&#34;backstory&#34; class=&#34;relative group&#34;&gt;Backstory &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#backstory&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Recently, I have been hearing about this new &lt;strong&gt;BLAZING FAST&lt;/strong&gt; beautiful web browser based on Firefox. I recently moved from Chrome based browsers to Firefox when Chrome removed the uBlock Origin extension. This browser peaked my interest as I hated the way Firefox looks out of the box. If you are unaware, I use linux with i3 and I am constantly changing how my system looks and feels to make it better. Firefox always felt like an eye sore to me. I tried some plugins that didn&amp;rsquo;t work too well so when I heard about Zen, I figured I would give it a shot.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Keebio Iris Rev 8 Review</title>
       <link>http://localhost:1313/reviews/keebio-iris-rev-8/</link>
