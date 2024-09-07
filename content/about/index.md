@@ -5,7 +5,6 @@ draft: false
 id: About
 aliases: []
 tags: []
-disableComments: true
 ---
 
 # Noss

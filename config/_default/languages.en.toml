@@ -1,0 +1,15 @@
+title = "Noss"
+
+[params.author]
+  name = "Noss"
+  image = "../../assets/noss.png"
+  headline = "A place to find information on Linux, Gaming on Linux, Homelabs or general IT"
+  bio = "I just sit in my room spending my time modifying my linux system or making games work"
+  links = [
+    { github = "https://github.com/NotNoss" },
+    { youtube = "https://www.youtube.com/channel/UCcxhFIh70r8uwXdfMIhw4Yw" },
+    { twitch = "https://www.twitch.tv/itsnoss" },
+    { mastodon = "https://linuxrocks.online/@Noss" },
+  ]
+
+

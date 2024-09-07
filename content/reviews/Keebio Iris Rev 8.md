@@ -5,7 +5,8 @@ draft: false
 id: Keebio Iris Rev 8
 aliases: []
 tags: []
-disableComments: false
+description: A review on the Keebio Iris Rev 8 keyboard
+showComments: true
 ---
 
 ## Backstory
