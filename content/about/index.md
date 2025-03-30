@@ -1,11 +1,15 @@
 ---
-date: 2024-07-09
-title: About
-draft: false
 id: About
 aliases: []
 tags: []
+date: "2024-07-09"
+draft: false
+title: About
+description: A description about the author of this blog
+showComments: false
+Toc: false
 ---
+
 
 # Noss
 Hello, I'm Noss, a college student studying Computer Science and an IT professional with around 4 years of experience behind me just in the career. My hobby with tech predates that by a long time.

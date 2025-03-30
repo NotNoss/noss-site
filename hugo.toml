@@ -16,7 +16,7 @@ theme = "re-terminal"
 
 [menus]
   [[menus.main]]
-    name = "Home"
+    name = "About"
     pageRef = "/"
     weight = 10
 
