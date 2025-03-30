@@ -2,18 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Noss</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://itsnoss.com/blog/</link>
     <description>Recent content in Blogs on Noss</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://itsnoss.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows could be removing Kernel Anti-Cheats?</title>
+      <link>https://itsnoss.com/blog/windows-could-be-removing-kernel-anti-cheats/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://itsnoss.com/blog/windows-could-be-removing-kernel-anti-cheats/</guid>
+      <description>&lt;p&gt;I daily drive Arch and don&amp;rsquo;t use Windows outside of work. I&amp;rsquo;ve been seeing people talking about the &lt;a href=&#34;https://blogs.windows.com/windowsexperience/2024/09/12/taking-steps-that-drive-resiliency-and-security-for-windows-customers/&#34;&gt;Windows Endpoint Security Ecosystem Summit&lt;/a&gt; on Reddit saying Microsoft is removing kernel level access to security applications. After reading the article myself, this does not seem to be the case.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Both our customers and ecosystem partners have called on Microsoft to provide additional security capabilities outside of kernel mode which, along with SDP, can be used to create highly available security solutions. At the summit, Microsoft and partners discussed the requirements and key challenges in creating a new platform which can meet the needs of security vendors.&amp;rdquo; - &lt;a href=&#34;https://blogs.windows.com/windowsexperience/2024/09/12/taking-steps-that-drive-resiliency-and-security-for-windows-customers/&#34;&gt;David Weston, Vice President Enterprise and OS Security at Microsoft&lt;/a&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;I daily drive Arch and don&amp;rsquo;t use Windows outside of work. I&amp;rsquo;ve been seeing people talking about the &lt;a href=&#34;https://blogs.windows.com/windowsexperience/2024/09/12/taking-steps-that-drive-resiliency-and-security-for-windows-customers/&#34;&gt;Windows Endpoint Security Ecosystem Summit&lt;/a&gt; on Reddit saying Microsoft is removing kernel level access to security applications. After reading the article myself, this does not seem to be the case.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Both our customers and ecosystem partners have called on Microsoft to provide additional security capabilities outside of kernel mode which, along with SDP, can be used to create highly available security solutions. At the summit, Microsoft and partners discussed the requirements and key challenges in creating a new platform which can meet the needs of security vendors.&amp;rdquo; - &lt;a href=&#34;https://blogs.windows.com/windowsexperience/2024/09/12/taking-steps-that-drive-resiliency-and-security-for-windows-customers/&#34;&gt;David Weston, Vice President Enterprise and OS Security at Microsoft&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft seems to be adding more features to the user space to eliminate as much reliance on the Windows kernel. This does not mean that anti-cheat software will 100% be removed from the kernel but it does still provide some hope to myself. We&amp;rsquo;ve seen some talks with anti-cheats not being in the kernel in the future from Riot, makers of Valorant and League of Legends, two very popular games.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Microsoft has been developing these features to secure their operating system, and if they continue down this road, kernel level anti-cheats will no longer be necessary to secure your games. In fact, we can see Windows trying to move all third party applications out of the kernel entirely (as they begin to secure and sandbox everything).&amp;rdquo; - &lt;a href=&#34;https://x.com/VALORANT/status/1837162362282946893&#34;&gt;Jose “the3” Chavez, Data Engineer at Riot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This snippet was taken from an article from Jose &amp;ldquo;the3&amp;rdquo; Chavez at Riot. He predicts that in the future there will be enough security features in the user space that an anti-cheat in the kernel will no longer be needed. This would be great news for the Linux community but it does not mean that Proton or any other wine prefixes will be able to run these games. Vanguard is highly regarded by the LoL and Valorant communities as it is known for being aggressive in banning cheaters. If Vanguard is removed from the kernel, I believe other anti-cheat software will move out of kernel space too. This gives us a brighter future using wine prefixes to play the games we have been missing but I am not holding my breath and I don&amp;rsquo;t believe you should either. Even if we see these advances, we aren&amp;rsquo;t sure how far out it is.&lt;/p&gt;
+&lt;p&gt;Chavez does believe that windows will eventually kill kernel level access to security software such as anti-cheat, however, that is after the user space provides enough security precautions for the security software to move. This could still mean that they can block everything they are blocking now which would effectively put us right back at square one. I do not believe we will see these games working on Linux in a long time but until then, I will continue to hold out hope that I can destroy kids on Rust once again.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Crowdstrike Incident</title>
-      <link>http://localhost:1313/blog/crowdstrike-incident/</link>
+      <link>https://itsnoss.com/blog/crowdstrike-incident/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/crowdstrike-incident/</guid>
-      <description>&lt;p&gt;What is something you expect when you get to the office on a Friday morning in IT? Personally, I expect to have an easy day going into the weekend as I got most of my work done during the week.&lt;/p&gt;&#xA;&lt;p&gt;Today, however, when I got into the office I was met by hundreds of emails and my Microsoft Teams going crazy. After sifting through all the emails from end users notifying us that services were not working, I looked at my co-worker and asked what happened. I was met with a brief &amp;ldquo;Crowdstrike Happened&amp;rdquo;.&lt;/p&gt;</description>
+      
+      <guid>https://itsnoss.com/blog/crowdstrike-incident/</guid>
+      <description>&lt;p&gt;What is something you expect when you get to the office on a Friday morning in IT? Personally, I expect to have an easy day going into the weekend as I got most of my work done during the week.&lt;/p&gt;
+&lt;p&gt;Today, however, when I got into the office I was met by hundreds of emails and my Microsoft Teams going crazy. After sifting through all the emails from end users notifying us that services were not working, I looked at my co-worker and asked what happened. I was met with a brief &amp;ldquo;Crowdstrike Happened&amp;rdquo;.&lt;/p&gt;</description>
+      <content>&lt;p&gt;What is something you expect when you get to the office on a Friday morning in IT? Personally, I expect to have an easy day going into the weekend as I got most of my work done during the week.&lt;/p&gt;
+&lt;p&gt;Today, however, when I got into the office I was met by hundreds of emails and my Microsoft Teams going crazy. After sifting through all the emails from end users notifying us that services were not working, I looked at my co-worker and asked what happened. I was met with a brief &amp;ldquo;Crowdstrike Happened&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Crowdstrike is a name I have never heard of before so after looking up the topic, I discovered they had a large, and I mean LARGE footprint. Flights have been grounded, banks are down, courts are closed, it&amp;rsquo;s a mess. This post isn&amp;rsquo;t meant to harass Crowdstrike or anyone involved with this mistake but to inform and poke fun at a situation that I was not expecting on my Friday morning.&lt;/p&gt;
+&lt;p&gt;For context, Crowdstrike is a cyber security firm out of Austin Texas. Crowdstrike provides cloud workload protection and endpoint security, threat intelligence, and cyberattack response services.&lt;/p&gt;
+&lt;p&gt;The issue was confirmed to be caused by a defect in a software content update by Crowdstrike. The specific issue was with their falcon sensor that is used to detect attacks such as malware.&lt;/p&gt;
+&lt;p&gt;To give credit where credit is due, they had a fairly quick response and recovery time. It is also worth noting, Crowdstrike confirmed this was an error on their end and not caused by an attack. This was re-assurring from all the news about companies getting hacked in the last week or so.&lt;/p&gt;
+&lt;p&gt;This is a late post so it may not be helpful but if anyone stumbles upon this and is looking for a manual solution, below are the steps provided by Crowdstrike to remediaite this issue manually.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;boot into save mode
+a. NOTE: connect the host with a network cable and not wi-fi&lt;/li&gt;
+&lt;li&gt;Navigate to the %WINDIR%\System32\drivers\CrowdStrike directory&lt;/li&gt;
+&lt;li&gt;locate the file matching &amp;ldquo;C-00000291*.sys&amp;rdquo;, and delete it&lt;/li&gt;
+&lt;li&gt;Boot the host normally&lt;/li&gt;
+&lt;li&gt;Profit&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This is an unfortunate event to kick off our Friday but I hope everyone has a better weekend.&lt;/p&gt;
+&lt;p&gt;Sources:
+Regarding the indident:
+&lt;a href=&#34;https://www.infosecurity-magazine.com/news/crowdstrike-fault-it-outages/&#34;&gt;https://www.infosecurity-magazine.com/news/crowdstrike-fault-it-outages/&lt;/a&gt;
+&lt;a href=&#34;https://www.crowdstrike.com/blog/statement-on-falcon-content-update-for-windows-hosts/&#34;&gt;https://www.crowdstrike.com/blog/statement-on-falcon-content-update-for-windows-hosts/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Regarding Crowdstrike:
+&lt;a href=&#34;https://en.wikipedia.org/wiki/CrowdStrike&#34;&gt;https://en.wikipedia.org/wiki/CrowdStrike&lt;/a&gt;&lt;/p&gt;
+</content>
     </item>
+    
   </channel>
 </rss>

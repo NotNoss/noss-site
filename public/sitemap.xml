@@ -1,58 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-      <url>
-            <loc>http://localhost:1313/</loc>
-            <lastmod>2024-09-07T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/reviews/</loc>
-            <lastmod>2024-09-07T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/reviews/zen-browser/</loc>
-            <lastmod>2024-09-07T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/blog/</loc>
-            <lastmod>2024-07-19T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/blog/crowdstrike-incident/</loc>
-            <lastmod>2024-07-19T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/about/</loc>
-            <lastmod>2024-07-09T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/reviews/keebio-iris-rev-8/</loc>
-            <lastmod>2024-07-09T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
+  <url>
+    <loc>https://itsnoss.com/</loc>
+    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itsnoss.com/reviews/</loc>
+    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itsnoss.com/reviews/zen-browser/</loc>
+    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itsnoss.com/blog/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itsnoss.com/blog/windows-could-be-removing-kernel-anti-cheats/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itsnoss.com/blog/crowdstrike-incident/</loc>
+    <lastmod>2024-07-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itsnoss.com/about/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itsnoss.com/reviews/keebio-iris-rev-8/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://itsnoss.com/categories/</loc>
+  </url><url>
+    <loc>https://itsnoss.com/tags/</loc>
+  </url>
 </urlset>

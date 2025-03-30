@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Windows could be removing Kernel Anti-Cheats? :: Noss</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="There are a lot of rumors about Windows removing access to Kernel level anti-cheats. We discuss these rumors in this article." />
+<meta name="keywords" content="" />
+
+  <meta name="robots" content="noodp" />
+
+<link rel="canonical" href="https://itsnoss.com/blog/windows-could-be-removing-kernel-anti-cheats/" />
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://itsnoss.com/styles.css">
+
+
+
+
+
+
+
+  <link rel="shortcut icon" href="https://itsnoss.com/img/theme-colors/orange.png">
+  <link rel="apple-touch-icon" href="https://itsnoss.com/img/theme-colors/orange.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Windows could be removing Kernel Anti-Cheats?">
+<meta property="og:description" content="There are a lot of rumors about Windows removing access to Kernel level anti-cheats. We discuss these rumors in this article." />
+<meta property="og:url" content="https://itsnoss.com/blog/windows-could-be-removing-kernel-anti-cheats/" />
+<meta property="og:site_name" content="Noss" />
+
+  
+    <meta property="og:image" content="img/favicon/%!s(&lt;nil&gt;).png">
+  
+
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+
+
+  <meta property="article:published_time" content="2024-08-21 00:00:00 &#43;0000 UTC" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+</head>
+<body class="">
+
+
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="https://itsnoss.com/">
+  <div class="logo">
+    re-Terminal
+  </div>
+</a>
+
+    </div>
+    
+      <ul class="menu menu--mobile">
+  <li class="menu__trigger">Menu&nbsp;▾</li>
+  <li>
+    <ul class="menu__dropdown">
+      
+        
+          <li><a href="/">Home</a></li>
+        
+      
+        
+          <li><a href="/reviews/">Reviews</a></li>
+        
+      
+        
+          <li><a href="/blog/">Blog</a></li>
+        
+      
+        
+          <li><a href="/about/">About</a></li>
+        
+      
+      
+    </ul>
+  </li>
+</ul>
+
+    
+    
+  </div>
+  
+    <nav class="navigation-menu">
+  <ul class="navigation-menu__inner menu--desktop">
+    
+      
+        
+          <li><a href="/" >Home</a></li>
+        
+      
+        
+          <li><a href="/reviews/" >Reviews</a></li>
+        
+      
+        
+          <li><a href="/blog/" >Blog</a></li>
+        
+      
+        
+          <li><a href="/about/" >About</a></li>
+        
+      
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<article class="post">
+  <h1 class="post-title">
+    <a href="https://itsnoss.com/blog/windows-could-be-removing-kernel-anti-cheats/">Windows could be removing Kernel Anti-Cheats?</a>
+  </h1>
+  <div class="post-meta"><time class="post-date">2024-08-21</time>
+    
+<span class="post-reading-time">3 min read (494 words)</span></div>
+
+  
+  
+
+
+
+  
+
+  <div class="post-content"><div>
+        <p>I daily drive Arch and don&rsquo;t use Windows outside of work. I&rsquo;ve been seeing people talking about the <a href="https://blogs.windows.com/windowsexperience/2024/09/12/taking-steps-that-drive-resiliency-and-security-for-windows-customers/">Windows Endpoint Security Ecosystem Summit</a> on Reddit saying Microsoft is removing kernel level access to security applications. After reading the article myself, this does not seem to be the case.</p>
+<p>&ldquo;Both our customers and ecosystem partners have called on Microsoft to provide additional security capabilities outside of kernel mode which, along with SDP, can be used to create highly available security solutions. At the summit, Microsoft and partners discussed the requirements and key challenges in creating a new platform which can meet the needs of security vendors.&rdquo; - <a href="https://blogs.windows.com/windowsexperience/2024/09/12/taking-steps-that-drive-resiliency-and-security-for-windows-customers/">David Weston, Vice President Enterprise and OS Security at Microsoft</a></p>
+<p>Microsoft seems to be adding more features to the user space to eliminate as much reliance on the Windows kernel. This does not mean that anti-cheat software will 100% be removed from the kernel but it does still provide some hope to myself. We&rsquo;ve seen some talks with anti-cheats not being in the kernel in the future from Riot, makers of Valorant and League of Legends, two very popular games.</p>
+<p>&ldquo;Microsoft has been developing these features to secure their operating system, and if they continue down this road, kernel level anti-cheats will no longer be necessary to secure your games. In fact, we can see Windows trying to move all third party applications out of the kernel entirely (as they begin to secure and sandbox everything).&rdquo; - <a href="https://x.com/VALORANT/status/1837162362282946893">Jose “the3” Chavez, Data Engineer at Riot</a></p>
+<p>This snippet was taken from an article from Jose &ldquo;the3&rdquo; Chavez at Riot. He predicts that in the future there will be enough security features in the user space that an anti-cheat in the kernel will no longer be needed. This would be great news for the Linux community but it does not mean that Proton or any other wine prefixes will be able to run these games. Vanguard is highly regarded by the LoL and Valorant communities as it is known for being aggressive in banning cheaters. If Vanguard is removed from the kernel, I believe other anti-cheat software will move out of kernel space too. This gives us a brighter future using wine prefixes to play the games we have been missing but I am not holding my breath and I don&rsquo;t believe you should either. Even if we see these advances, we aren&rsquo;t sure how far out it is.</p>
+<p>Chavez does believe that windows will eventually kill kernel level access to security software such as anti-cheat, however, that is after the user space provides enough security precautions for the security software to move. This could still mean that they can block everything they are blocking now which would effectively put us right back at square one. I do not believe we will see these games working on Linux in a long time but until then, I will continue to hold out hope that I can destroy kids on Rust once again.</p>
+
+      </div></div>
+
+  
+
+  
+    <script
+  src="https://giscus.app/client.js"
+  data-repo="NotNoss/Noss-site"
+  data-repo-id="R_kgDOMRzwwA"
+  data-category="General"
+  data-category-id="DIC_kwDOMRzwwM4CgmMu"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="bottom"
+  data-theme="transparent_dark"
+  data-lang="en"
+  crossorigin="anonymous"
+  async
+></script>
+  
+</article>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2025 Powered by <a href="https://gohugo.io">Hugo</a></span>
+    
+      <span>:: <a href="https://github.com/mirus-ua/hugo-theme-re-terminal" target="_blank">Theme</a> made by <a href="https://github.com/mirus-ua" target="_blank">Mirus</a></span>
+      </div>
+  </div>
+</footer>
+
+
+
+
+
+
+<script type="text/javascript" src="/bundle.min.js"></script>
+
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>

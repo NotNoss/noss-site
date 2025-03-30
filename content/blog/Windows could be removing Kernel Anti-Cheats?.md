@@ -7,6 +7,7 @@ draft: false
 title: Windows could be removing Kernel Anti-Cheats?
 description: There are a lot of rumors about Windows removing access to Kernel level anti-cheats. We discuss these rumors in this article.
 showComments: true
+Toc: false
 ---
 
 I daily drive Arch and don't use Windows outside of work. I've been seeing people talking about the [Windows Endpoint Security Ecosystem Summit](https://blogs.windows.com/windowsexperience/2024/09/12/taking-steps-that-drive-resiliency-and-security-for-windows-customers/) on Reddit saying Microsoft is removing kernel level access to security applications. After reading the article myself, this does not seem to be the case.

@@ -7,6 +7,7 @@ draft: false
 title: Crowdstrike Incident
 description: A small bit of information from the crowdstrike incident
 showComments: true
+Toc: false
 ---
 
 What is something you expect when you get to the office on a Friday morning in IT? Personally, I expect to have an easy day going into the weekend as I got most of my work done during the week.
