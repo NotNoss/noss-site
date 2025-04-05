@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guides on Noss</title>
+    <link>https://itsnoss.com/guides/</link>
+    <description>Recent content in Guides on Noss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://itsnoss.com/guides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://itsnoss.com/guides/test-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itsnoss.com/guides/test-guide/</guid>
+      <description>&lt;p&gt;This is a guide test&lt;/p&gt;</description>
+      <content>&lt;p&gt;This is a guide test&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
