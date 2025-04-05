@@ -22,11 +22,11 @@ theme = "re-terminal"
   home = ["html"]
 
 [menus]
-  [[menus.main]]
-    name = "Projects"
-    pageref = "/projects/"
-    weight = 20
-  #
+  # [[menus.main]]
+  #   name = "Projects"
+  #   pageref = "/projects/"
+  #   weight = 20
+
   [[menus.main]]
     name = "Guides"
     pageref = "/guides/"
