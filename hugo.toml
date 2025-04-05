@@ -1,3 +1,4 @@
+baseurl = "/"
 theme = "re-terminal"
 
 
@@ -11,24 +12,25 @@ theme = "re-terminal"
   Toc = true
   TocTitle = "Table of Contents"
 
+  contentTypeName = "./content/about/"
+
+  showLastUpdated = true
+
+  favicon = "./static/favicon.ico"
+
 [outputs]
   home = ["html"]
 
 [menus]
   [[menus.main]]
-    name = "About"
-    pageRef = "/"
-    weight = 10
-
-  # [[menus.main]]
-  #   name = "Projects"
-  #   pageref = "/projects/"
-  #   weight = 20
+    name = "Projects"
+    pageref = "/projects/"
+    weight = 20
   #
-  # [[menus.main]]
-  #   name = "Guides"
-  #   pageref = "/guides/"
-  #   weight = 30
+  [[menus.main]]
+    name = "Guides"
+    pageref = "/guides/"
+    weight = 30
     
   [[menus.main]]
     name = "Reviews"
@@ -42,8 +44,9 @@ theme = "re-terminal"
 
   [[menus.main]]
     name = "About"
-    pageRef = "/about/"
+    pageRef = "/about"
     weight = 60
+
 
 #[module]
 #  [[module.imports]]

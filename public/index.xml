@@ -2,34 +2,132 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noss</title>
-    <link>https://itsnoss.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Noss</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://itsnoss.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zen Browser Review</title>
+      <link>http://localhost:1313/reviews/zen-browser/</link>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/reviews/zen-browser/</guid>
+      <description>&lt;p&gt;I would like to make it clear that the below thoughts and opinions are of my own. This is what I have observed in my search for my next browser.&lt;/p&gt;
+&lt;h2 id=&#34;backstory&#34;&gt;Backstory&lt;/h2&gt;
+&lt;p&gt;Recently, I have been hearing about this new &lt;strong&gt;BLAZING FAST&lt;/strong&gt; beautiful web browser based on Firefox. I recently moved from Chrome based browsers to Firefox when Chrome removed the uBlock Origin extension. This browser peaked my interest as I hated the way Firefox looks out of the box. If you are unaware, I use linux with i3 and I am constantly changing how my system looks and feels to make it better. Firefox always felt like an eye sore to me. I tried some plugins that didn&amp;rsquo;t work too well so when I heard about Zen, I figured I would give it a shot.&lt;/p&gt;</description>
+      <content>&lt;p&gt;I would like to make it clear that the below thoughts and opinions are of my own. This is what I have observed in my search for my next browser.&lt;/p&gt;
+&lt;h2 id=&#34;backstory&#34;&gt;Backstory&lt;/h2&gt;
+&lt;p&gt;Recently, I have been hearing about this new &lt;strong&gt;BLAZING FAST&lt;/strong&gt; beautiful web browser based on Firefox. I recently moved from Chrome based browsers to Firefox when Chrome removed the uBlock Origin extension. This browser peaked my interest as I hated the way Firefox looks out of the box. If you are unaware, I use linux with i3 and I am constantly changing how my system looks and feels to make it better. Firefox always felt like an eye sore to me. I tried some plugins that didn&amp;rsquo;t work too well so when I heard about Zen, I figured I would give it a shot.&lt;/p&gt;
+&lt;h2 id=&#34;first-impressions&#34;&gt;First Impressions&lt;/h2&gt;
+&lt;p&gt;My first impression of Zen was a bit good and a bit bad. The first thing I did was connect it to Mozilla Sync in order to get my extensions moved over. The Zen developers left this feature in which I believe is a huge plus especially when it comes to migrating users from Firefox to Zen.&lt;/p&gt;
+&lt;p&gt;Zen initially looked a lot like Opera GX to me. I never used the Opera browser, however, friends of mine have and this seemed like it took some inspiration from that project. The default colors in Zen look nice but it didn&amp;rsquo;t fit in with my Tokyo Night obsession. I took a look at the themes page in the add-on settings and to my delight, I saw a Tokyo Night theme. After enabling it, my screen turned bright with no seemingly easy way to make it dark. I went to their website and installed the Catpuccin theme as it was the closest to Tokyo Night as I could find. Zen does have a tool to easily help you create themes, however, they are not accepting new themes currently.&lt;/p&gt;
+&lt;h2 id=&#34;tab-line&#34;&gt;Tab Line&lt;/h2&gt;
+&lt;p&gt;I enjoy how compact the tab line is on the browser. It was upsetting to see no close button on the tab line, however, I did notice that extending the tab line would allow for you to close without having to right-click &amp;gt; close tab. I prefer a close button as it&amp;rsquo;s faster, convenient and easy. I am someone to opens and closes tabs a lot so it would have been nice to have this feature. I thought about looking into making a plugin to add this but when looking at their site, I realized there is a plugin to add a &lt;a href=&#34;https://zen-browser.app/themes/49dbaa98-06ee-42bd-9a8e-834babef7a41&#34;&gt;collapsed tab close button&lt;/a&gt; to your browser already. I am now using this and I am enjoying it.&lt;/p&gt;
+&lt;h2 id=&#34;workspaces&#34;&gt;Workspaces&lt;/h2&gt;
+&lt;p&gt;Workspaces is an experimental feature so I won&amp;rsquo;t rip into it too much. I enjoy the idea of having workspaces and I am someone who will move from working on a project to researching things for my personal life, things for work, games etc. I tend to keep those tabs open for multiple days so this is a nice way for my browser to not become a mess. One thing I did notice is if you have two windows open and change your workspace, it does not change for all windows. I can see why this would be appealing for some people but I would enjoy seeing a setting in the future that will allow you to decide how the workspaces behave with multiple windows.&lt;/p&gt;
+&lt;h2 id=&#34;plugins&#34;&gt;Plugins&lt;/h2&gt;
+&lt;p&gt;The plugins this section is referring to are &lt;a href=&#34;https://zen-browser.app/themes&#34;&gt;the ones found on the zen website&lt;/a&gt; This is a feature where the community can make something to enhance the user experience with the browser. Everything in here is optional but they do have a nice selection of plugins made by the community. They seem to be themes (at least that&amp;rsquo;s what zen is calling them) and mostly just effect the UI. I call them plugins as they essentially add more features like the collapsed tab close button mentioned above. From what I can tell, the only way to browse these are to go to the zen website. It would be nice to see something added into the settings to browse there or at least a link somewhere that makes it easier to get to.&lt;/p&gt;
+&lt;h2 id=&#34;side-view&#34;&gt;Side View&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m not sure what the name of this feature is as either the tool tip for it does not exist or mine is not working. This is the feature that allows you to open a webpage on the side of your browser to view the mobile version of a site. This seems to be aimed toward visiting a social media website and scroll through your feed without having a dedicated tab and still being able to see another tab on your screen. I have not used this feature extensively, however, I can see some uses when scrolling through &lt;a href=&#34;https://linuxrocks.online/@Noss&#34;&gt;mastodon&lt;/a&gt; or reddit. I enjoy how when signing into something on a tab, it transfers to the side view or vice versa but when I was logging in with my password manager, it did not prompt me to login. I&amp;rsquo;m not sure if this is on the browser side or the side of my password manager, however, I did notice that it seems like uBlock Origin is not blocking trackers on these websites. I tested this by opening a new tab and manually starting uBlock Origin (it&amp;rsquo;s off by default on a new tab). I waited with reddit open and nothing had been blocked. I opened reddit in a tab and as of writing this, uBlock Origin has blocked 22 ads/trackers. I&amp;rsquo;m not sure this is the most scientific way to view this but I plan on mostly using this for mastodon anyway.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;This review is beginning to become lengthy so I will be ending it here. What do I think of the browser? The browser seems to be unfinished but that&amp;rsquo;s not a bad thing. Much of the browser is polished minus a couple issues I ran into. I can see myself using this in the future. I do not have extensive knowledge of this browser and have not used it extensively. I will likely continue to use it for a while. That being said it desperately needs a Tokyo Night theme. Maybe I will make one when they allow us to make themes again. I do enjoy the use of a flatpak installation as you can control what the software can do on your machine a lot easier utilizing a program like flatseal.&lt;/p&gt;
+&lt;p&gt;Find the Zen Browser &lt;a href=&#34;zen-browser.app/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Windows could be removing Kernel Anti-Cheats?</title>
+      <link>http://localhost:1313/blog/windows-could-be-removing-kernel-anti-cheats/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/windows-could-be-removing-kernel-anti-cheats/</guid>
+      <description>&lt;p&gt;I daily drive Arch and don&amp;rsquo;t use Windows outside of work. I&amp;rsquo;ve been seeing people talking about the &lt;a href=&#34;https://blogs.windows.com/windowsexperience/2024/09/12/taking-steps-that-drive-resiliency-and-security-for-windows-customers/&#34;&gt;Windows Endpoint Security Ecosystem Summit&lt;/a&gt; on Reddit saying Microsoft is removing kernel level access to security applications. After reading the article myself, this does not seem to be the case.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Both our customers and ecosystem partners have called on Microsoft to provide additional security capabilities outside of kernel mode which, along with SDP, can be used to create highly available security solutions. At the summit, Microsoft and partners discussed the requirements and key challenges in creating a new platform which can meet the needs of security vendors.&amp;rdquo; - &lt;a href=&#34;https://blogs.windows.com/windowsexperience/2024/09/12/taking-steps-that-drive-resiliency-and-security-for-windows-customers/&#34;&gt;David Weston, Vice President Enterprise and OS Security at Microsoft&lt;/a&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;I daily drive Arch and don&amp;rsquo;t use Windows outside of work. I&amp;rsquo;ve been seeing people talking about the &lt;a href=&#34;https://blogs.windows.com/windowsexperience/2024/09/12/taking-steps-that-drive-resiliency-and-security-for-windows-customers/&#34;&gt;Windows Endpoint Security Ecosystem Summit&lt;/a&gt; on Reddit saying Microsoft is removing kernel level access to security applications. After reading the article myself, this does not seem to be the case.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Both our customers and ecosystem partners have called on Microsoft to provide additional security capabilities outside of kernel mode which, along with SDP, can be used to create highly available security solutions. At the summit, Microsoft and partners discussed the requirements and key challenges in creating a new platform which can meet the needs of security vendors.&amp;rdquo; - &lt;a href=&#34;https://blogs.windows.com/windowsexperience/2024/09/12/taking-steps-that-drive-resiliency-and-security-for-windows-customers/&#34;&gt;David Weston, Vice President Enterprise and OS Security at Microsoft&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Microsoft seems to be adding more features to the user space to eliminate as much reliance on the Windows kernel. This does not mean that anti-cheat software will 100% be removed from the kernel but it does still provide some hope to myself. We&amp;rsquo;ve seen some talks with anti-cheats not being in the kernel in the future from Riot, makers of Valorant and League of Legends, two very popular games.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Microsoft has been developing these features to secure their operating system, and if they continue down this road, kernel level anti-cheats will no longer be necessary to secure your games. In fact, we can see Windows trying to move all third party applications out of the kernel entirely (as they begin to secure and sandbox everything).&amp;rdquo; - &lt;a href=&#34;https://x.com/VALORANT/status/1837162362282946893&#34;&gt;Jose “the3” Chavez, Data Engineer at Riot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This snippet was taken from an article from Jose &amp;ldquo;the3&amp;rdquo; Chavez at Riot. He predicts that in the future there will be enough security features in the user space that an anti-cheat in the kernel will no longer be needed. This would be great news for the Linux community but it does not mean that Proton or any other wine prefixes will be able to run these games. Vanguard is highly regarded by the LoL and Valorant communities as it is known for being aggressive in banning cheaters. If Vanguard is removed from the kernel, I believe other anti-cheat software will move out of kernel space too. This gives us a brighter future using wine prefixes to play the games we have been missing but I am not holding my breath and I don&amp;rsquo;t believe you should either. Even if we see these advances, we aren&amp;rsquo;t sure how far out it is.&lt;/p&gt;
+&lt;p&gt;Chavez does believe that windows will eventually kill kernel level access to security software such as anti-cheat, however, that is after the user space provides enough security precautions for the security software to move. This could still mean that they can block everything they are blocking now which would effectively put us right back at square one. I do not believe we will see these games working on Linux in a long time but until then, I will continue to hold out hope that I can destroy kids on Rust once again.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Crowdstrike Incident</title>
+      <link>http://localhost:1313/blog/crowdstrike-incident/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/crowdstrike-incident/</guid>
+      <description>&lt;p&gt;What is something you expect when you get to the office on a Friday morning in IT? Personally, I expect to have an easy day going into the weekend as I got most of my work done during the week.&lt;/p&gt;
+&lt;p&gt;Today, however, when I got into the office I was met by hundreds of emails and my Microsoft Teams going crazy. After sifting through all the emails from end users notifying us that services were not working, I looked at my co-worker and asked what happened. I was met with a brief &amp;ldquo;Crowdstrike Happened&amp;rdquo;.&lt;/p&gt;</description>
+      <content>&lt;p&gt;What is something you expect when you get to the office on a Friday morning in IT? Personally, I expect to have an easy day going into the weekend as I got most of my work done during the week.&lt;/p&gt;
+&lt;p&gt;Today, however, when I got into the office I was met by hundreds of emails and my Microsoft Teams going crazy. After sifting through all the emails from end users notifying us that services were not working, I looked at my co-worker and asked what happened. I was met with a brief &amp;ldquo;Crowdstrike Happened&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Crowdstrike is a name I have never heard of before so after looking up the topic, I discovered they had a large, and I mean LARGE footprint. Flights have been grounded, banks are down, courts are closed, it&amp;rsquo;s a mess. This post isn&amp;rsquo;t meant to harass Crowdstrike or anyone involved with this mistake but to inform and poke fun at a situation that I was not expecting on my Friday morning.&lt;/p&gt;
+&lt;p&gt;For context, Crowdstrike is a cyber security firm out of Austin Texas. Crowdstrike provides cloud workload protection and endpoint security, threat intelligence, and cyberattack response services.&lt;/p&gt;
+&lt;p&gt;The issue was confirmed to be caused by a defect in a software content update by Crowdstrike. The specific issue was with their falcon sensor that is used to detect attacks such as malware.&lt;/p&gt;
+&lt;p&gt;To give credit where credit is due, they had a fairly quick response and recovery time. It is also worth noting, Crowdstrike confirmed this was an error on their end and not caused by an attack. This was re-assurring from all the news about companies getting hacked in the last week or so.&lt;/p&gt;
+&lt;p&gt;This is a late post so it may not be helpful but if anyone stumbles upon this and is looking for a manual solution, below are the steps provided by Crowdstrike to remediaite this issue manually.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;boot into save mode
+a. NOTE: connect the host with a network cable and not wi-fi&lt;/li&gt;
+&lt;li&gt;Navigate to the %WINDIR%\System32\drivers\CrowdStrike directory&lt;/li&gt;
+&lt;li&gt;locate the file matching &amp;ldquo;C-00000291*.sys&amp;rdquo;, and delete it&lt;/li&gt;
+&lt;li&gt;Boot the host normally&lt;/li&gt;
+&lt;li&gt;Profit&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This is an unfortunate event to kick off our Friday but I hope everyone has a better weekend.&lt;/p&gt;
+&lt;p&gt;Sources:
+Regarding the indident:
+&lt;a href=&#34;https://www.infosecurity-magazine.com/news/crowdstrike-fault-it-outages/&#34;&gt;https://www.infosecurity-magazine.com/news/crowdstrike-fault-it-outages/&lt;/a&gt;
+&lt;a href=&#34;https://www.crowdstrike.com/blog/statement-on-falcon-content-update-for-windows-hosts/&#34;&gt;https://www.crowdstrike.com/blog/statement-on-falcon-content-update-for-windows-hosts/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Regarding Crowdstrike:
+&lt;a href=&#34;https://en.wikipedia.org/wiki/CrowdStrike&#34;&gt;https://en.wikipedia.org/wiki/CrowdStrike&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>About</title>
-      <link>https://itsnoss.com/about/</link>
+      <link>http://localhost:1313/home/</link>
       <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://itsnoss.com/about/</guid>
-      
-      <description>Noss Hello, I&amp;rsquo;m Noss, a college student studying Computer Science and an IT professional with around 4 years of experience behind me just in the career. My hobby with tech predates that by a long time.
-I am a hobbiest programmer and homelaber.
-This site serves as a place for me to discuss the things I am learning, my experiences and anything else that intrigues me.
-There is no guarantee of anything being added on a schedule due to a busy life working full time and attending college.</description>
-      
+      <guid>http://localhost:1313/home/</guid>
+      <description>&lt;h1 id=&#34;noss&#34;&gt;Noss&lt;/h1&gt;
+&lt;p&gt;Hello, I&amp;rsquo;m Noss, a college student studying Computer Science and an IT professional with around 4 years of experience behind me just in the career. My hobby with tech predates that by a long time.&lt;/p&gt;
+&lt;p&gt;I am a hobbiest programmer and homelaber.&lt;/p&gt;
+&lt;p&gt;This site serves as a place for me to discuss the things I am learning, my experiences and anything else that intrigues me.&lt;/p&gt;
+&lt;p&gt;There is no guarantee of anything being added on a schedule due to a busy life working full time and attending college.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;noss&#34;&gt;Noss&lt;/h1&gt;
+&lt;p&gt;Hello, I&amp;rsquo;m Noss, a college student studying Computer Science and an IT professional with around 4 years of experience behind me just in the career. My hobby with tech predates that by a long time.&lt;/p&gt;
+&lt;p&gt;I am a hobbiest programmer and homelaber.&lt;/p&gt;
+&lt;p&gt;This site serves as a place for me to discuss the things I am learning, my experiences and anything else that intrigues me.&lt;/p&gt;
+&lt;p&gt;There is no guarantee of anything being added on a schedule due to a busy life working full time and attending college.&lt;/p&gt;
+&lt;p&gt;This is a place for me to teach what I learn, however, he is constantly learning and does not know everything. This site will be a public repo as well as hosting comments. If there is something I can do better or is generally wrong about. Please let me know or you can submit a PR to fix it in order to provide the most accurate information possible.&lt;/p&gt;
+&lt;p&gt;DISCLAIMER: Technology is an ever changing field. Things are subject to change. Any guide may not be entirely accurate so always check dates before following one. I will try and keep up with them as much as possible but I may not be able to keep up with them all.&lt;/p&gt;
+</content>
     </item>
     
     <item>
       <title>Keebio Iris Rev 8 Review</title>
-      <link>https://itsnoss.com/reviews/keebio-iris-rev-8/</link>
+      <link>http://localhost:1313/reviews/keebio-iris-rev-8/</link>
       <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://itsnoss.com/reviews/keebio-iris-rev-8/</guid>
-      
-      <description>Backstory Since I was 16, I have had back issues. When I was 19, I was officially diagnosed with scholiosis. This causes pain all over my body but can usually start from my lower back or my shoulders/neck area. I actively make changes in my lifestyle in an attempt to avoid the pain that I endur everyday. Two years ago, I was working and couldn&amp;rsquo;t hold my mouse or type on my keyboard without pain shooting through my arms.</description>
-      
+      <guid>http://localhost:1313/reviews/keebio-iris-rev-8/</guid>
+      <description>&lt;h2 id=&#34;backstory&#34;&gt;Backstory&lt;/h2&gt;
+&lt;p&gt;Since I was 16, I have had back issues. When I was 19, I was officially diagnosed with scholiosis. This causes pain all over my body but can usually start from my lower back or my shoulders/neck area. I actively make changes in my lifestyle in an attempt to avoid the pain that I endur everyday. Two years ago, I was working and couldn&amp;rsquo;t hold my mouse or type on my keyboard without pain shooting through my arms. I was 20 and about a year and a half into my IT career and I thought it was about to come to an end. A year and a half later, I found out about split keyboards after watching The Primeagen talk about using a split keyboard. I thought they were ugly and dumb. Fast forward a few months and that pain is back again but this time it was more frequent. I told myself I can push through it, wondering if this is something I could endur my whole life. Recently I saw Primeagen &lt;a href=&#34;https://www.youtube.com/watch?v=UrxkO4DM67M&#34;&gt;talk about the glove 80&lt;/a&gt;. I gave it some serious thought but then I decided not to. Then I saw a lot of other videos about split keyboards. They were primarily mentioning how they reduce strain in the neck/shoulders area. This was an area that causes pain but I had never tried to stop the pain there before. I did no research to see if that is true, I just decided to jump in. The pre-built ones were out of my price range&amp;hellip; until I found the Keebio Iris Rev 8. I could afford it and I wanted it to be a gateway into my new split keyboard addiction.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;backstory&#34;&gt;Backstory&lt;/h2&gt;
+&lt;p&gt;Since I was 16, I have had back issues. When I was 19, I was officially diagnosed with scholiosis. This causes pain all over my body but can usually start from my lower back or my shoulders/neck area. I actively make changes in my lifestyle in an attempt to avoid the pain that I endur everyday. Two years ago, I was working and couldn&amp;rsquo;t hold my mouse or type on my keyboard without pain shooting through my arms. I was 20 and about a year and a half into my IT career and I thought it was about to come to an end. A year and a half later, I found out about split keyboards after watching The Primeagen talk about using a split keyboard. I thought they were ugly and dumb. Fast forward a few months and that pain is back again but this time it was more frequent. I told myself I can push through it, wondering if this is something I could endur my whole life. Recently I saw Primeagen &lt;a href=&#34;https://www.youtube.com/watch?v=UrxkO4DM67M&#34;&gt;talk about the glove 80&lt;/a&gt;. I gave it some serious thought but then I decided not to. Then I saw a lot of other videos about split keyboards. They were primarily mentioning how they reduce strain in the neck/shoulders area. This was an area that causes pain but I had never tried to stop the pain there before. I did no research to see if that is true, I just decided to jump in. The pre-built ones were out of my price range&amp;hellip; until I found the Keebio Iris Rev 8. I could afford it and I wanted it to be a gateway into my new split keyboard addiction.&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The Keebio Iris Rev 8 is a split ergonomic keyboard by Keebio. This is my first split or even ergonomic keyboard but I have really enjoyed the month I’ve been using the iris and will likely continue using it but I do now have my eyes on some others with less keys already.&lt;/p&gt;
+&lt;h2 id=&#34;purchasing-experience&#34;&gt;Purchasing Experience&lt;/h2&gt;
+&lt;p&gt;The main part you’re needing from Keebio is the PCB, stand offs and screws (I’m sure you can get your own stand offs and screws as well but I have not looked into it) as they offer files to CNC or 3D print your own case. The switches and key caps can also be your own. I love that Keebio allows you to choose which parts you want to purchase incase you don’t want to go with their plates, middle layer etc.&lt;/p&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;p&gt;Enough about the purchasing experience, lets talk about the device. It’s DIY so you have to build it but it’s as easy as screwing everything together. The only physical complaint I have is some keys are hard to press with my hands. This has nothing to do with the keyboard and has everything to do with the size of my hands. Keycaps were hard to find that are Ortholinear. Keebio offers keycaps for it that have legends but I decided to seek out a set myself for added customization. The only set that I could find was a set of blank PBT keycaps from &lt;a href=&#34;https://a.co/d/0dmJnwFb&#34;&gt;Amazon&lt;/a&gt;. This Posed a problem as I was not a touch typer but instead, I had found my own way of typing over the years that was efficient for me. I had to learn touch typing but turns out, I was able to pick it up pretty fast.&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;p&gt;In terms of software, you have a few options. &lt;a href=&#34;usevia.app&#34;&gt;via&lt;/a&gt;, &lt;a href=&#34;https://qmk.fm/&#34;&gt;qmk&lt;/a&gt; and &lt;a href=&#34;https://get.vial.today/&#34;&gt;vial&lt;/a&gt;. Via is simple to use, use a chrome browser, go to the website and make your changes. This does not offer lots of customization but is great for beginners to make simple changes. QMK is harder to use but it’s the best by far in customization. QMK has to be written in C and then compiled before flashing it on your device. Lastly is Vial, vial is a good middle ground whereas it offers more customization then via but it’s easier then QMK. I’m not going to go into too much detail on using any of them but you can check out my vial configuration &lt;a href=&#34;https://github.com/NotNoss/iris-rev8-vial&#34;&gt;here&lt;/a&gt;. I am still debating on making the change to QMK to add a feature where my keyboard RGB changes based on the layer I am on.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;The Keebio Iris Rev 8 is a great keyboard especially for beginners. The price makes it an attractive starting point for beginners. I can see myself using this keyboard for a while but will likely eventually look at a smaller one with less keys.&lt;/p&gt;
+</content>
     </item>
     
   </channel>

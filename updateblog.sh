@@ -5,9 +5,15 @@ set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
+# Check arguments
+if [[ $1 != "about" && $1 != "guides" && $1 != "blog" && $1 != "projects" && $1 != "reviews" ]]; then
+  echo "arguments not recognized"
+  exit 1
+fi
+
 # Set variables for Obsidian to Hugo copy
-sourcePath="$HOME/Documents/Docs/Noss-Site/Blogs/"
-destinationPath="$HOME/Projects/noss-site/content/blog/"
+sourcePath="$HOME/Documents/Docs/Noss-Site/$1/"
+destinationPath="$HOME/Projects/noss-site/content/$1/"
 
 # Set GitHub Repo
 myrepo="noss-site"
