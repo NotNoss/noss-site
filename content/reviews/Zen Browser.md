@@ -1,17 +1,4 @@
----
-date: 2024-09-07
-title: Zen Browser Review
-draft: false
-id: Zen Browser Review
-aliases: []
-tags: []
-description: A review on the Zen Web Browser
-showComments: true
----
-
-
 I would like to make it clear that the below thoughts and opinions are of my own. This is what I have observed in my search for my next browser.
-
 ## Backstory
 Recently, I have been hearing about this new **BLAZING FAST** beautiful web browser based on Firefox. I recently moved from Chrome based browsers to Firefox when Chrome removed the uBlock Origin extension. This browser peaked my interest as I hated the way Firefox looks out of the box. If you are unaware, I use linux with i3 and I am constantly changing how my system looks and feels to make it better. Firefox always felt like an eye sore to me. I tried some plugins that didn't work too well so when I heard about Zen, I figured I would give it a shot.
 
@@ -34,5 +21,3 @@ I'm not sure what the name of this feature is as either the tool tip for it does
 
 ## Conclusion
 This review is beginning to become lengthy so I will be ending it here. What do I think of the browser? The browser seems to be unfinished but that's not a bad thing. Much of the browser is polished minus a couple issues I ran into. I can see myself using this in the future. I do not have extensive knowledge of this browser and have not used it extensively. I will likely continue to use it for a while. That being said it desperately needs a Tokyo Night theme. Maybe I will make one when they allow us to make themes again. I do enjoy the use of a flatpak installation as you can control what the software can do on your machine a lot easier utilizing a program like flatseal.
-
-Find the Zen Browser [here](zen-browser.app/)

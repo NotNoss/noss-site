@@ -6,11 +6,45 @@
     <description>Recent content in Reviews on Noss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://itsnoss.com/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://itsnoss.com/reviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Zen Browser Review</title>
+      <title>Keebio Iris Rev 8 Review</title>
+      <link>https://itsnoss.com/reviews/keebio-iris-rev-8/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://itsnoss.com/reviews/keebio-iris-rev-8/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The Keebio Iris Rev 8 is a split ergonomic keyboard by Keebio. This is my first split or even ergonomic keyboard but I have really enjoyed the month I’ve been using the iris and will likely continue using it but I do now have my eyes on some others with less keys already.&lt;/p&gt;
+&lt;h2 id=&#34;purchasing-experience&#34;&gt;Purchasing Experience&lt;/h2&gt;
+&lt;p&gt;The main part you’re needing from Keebio is the PCB, stand offs and screws (I’m sure you can get your own stand offs and screws as well but I have not looked into it) as they offer files to CNC or 3D print your own case. The switches and key caps can also be your own. I love that Keebio allows you to choose which parts you want to purchase incase you don’t want to go with their plates, middle layer etc.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The Keebio Iris Rev 8 is a split ergonomic keyboard by Keebio. This is my first split or even ergonomic keyboard but I have really enjoyed the month I’ve been using the iris and will likely continue using it but I do now have my eyes on some others with less keys already.&lt;/p&gt;
+&lt;h2 id=&#34;purchasing-experience&#34;&gt;Purchasing Experience&lt;/h2&gt;
+&lt;p&gt;The main part you’re needing from Keebio is the PCB, stand offs and screws (I’m sure you can get your own stand offs and screws as well but I have not looked into it) as they offer files to CNC or 3D print your own case. The switches and key caps can also be your own. I love that Keebio allows you to choose which parts you want to purchase incase you don’t want to go with their plates, middle layer etc.&lt;/p&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;p&gt;Enough about what I like about the company and their website, let’s talk about the device. It’s DIY so you have to put it together but it’s as easy as screwing everything together. The only complaint I have hardware wise isn’t anything bad on the keyboard but some keys are more difficult to press with my hands. The keyboard is QMK compatible which offers a huge amount of customization.&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;p&gt;In terms of software, you have a few options. &lt;a href=&#34;usevia.app&#34;&gt;via&lt;/a&gt;, &lt;a href=&#34;https://qmk.fm/&#34;&gt;qmk&lt;/a&gt; and &lt;a href=&#34;https://get.vial.today/&#34;&gt;vial&lt;/a&gt;. Via is simple to use, use a chrome browser, go to the website and make your changes. This does not offer lots of customization but is great for beginners to make simple changes. QMK is harder to use but it’s the best by far in customization. QMK has to be written in C and then compiled before flashing it on your device. Lastly is Vial, vial is a good middle ground whereas it offers more customization then via but it’s easier then QMK. I’m not going to go into too much detail on using any of them but you can check out my vial configuration here.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;The Keebio Iris Rev 8 is a great keyboard especially for beginners. The price makes it an attractive starting point for beginners. I can see myself using this keyboard for a while but will likely eventually look at a smaller one with less keys.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://itsnoss.com/reviews/test-reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://itsnoss.com/reviews/test-reviews/</guid>
+      <description>&lt;p&gt;This is a review test&lt;/p&gt;</description>
+      <content>&lt;p&gt;This is a review test&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://itsnoss.com/reviews/zen-browser/</link>
-      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://itsnoss.com/reviews/zen-browser/</guid>
       <description>&lt;p&gt;I would like to make it clear that the below thoughts and opinions are of my own. This is what I have observed in my search for my next browser.&lt;/p&gt;
@@ -32,30 +66,6 @@
 &lt;p&gt;I&amp;rsquo;m not sure what the name of this feature is as either the tool tip for it does not exist or mine is not working. This is the feature that allows you to open a webpage on the side of your browser to view the mobile version of a site. This seems to be aimed toward visiting a social media website and scroll through your feed without having a dedicated tab and still being able to see another tab on your screen. I have not used this feature extensively, however, I can see some uses when scrolling through &lt;a href=&#34;https://linuxrocks.online/@Noss&#34;&gt;mastodon&lt;/a&gt; or reddit. I enjoy how when signing into something on a tab, it transfers to the side view or vice versa but when I was logging in with my password manager, it did not prompt me to login. I&amp;rsquo;m not sure if this is on the browser side or the side of my password manager, however, I did notice that it seems like uBlock Origin is not blocking trackers on these websites. I tested this by opening a new tab and manually starting uBlock Origin (it&amp;rsquo;s off by default on a new tab). I waited with reddit open and nothing had been blocked. I opened reddit in a tab and as of writing this, uBlock Origin has blocked 22 ads/trackers. I&amp;rsquo;m not sure this is the most scientific way to view this but I plan on mostly using this for mastodon anyway.&lt;/p&gt;
 &lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;This review is beginning to become lengthy so I will be ending it here. What do I think of the browser? The browser seems to be unfinished but that&amp;rsquo;s not a bad thing. Much of the browser is polished minus a couple issues I ran into. I can see myself using this in the future. I do not have extensive knowledge of this browser and have not used it extensively. I will likely continue to use it for a while. That being said it desperately needs a Tokyo Night theme. Maybe I will make one when they allow us to make themes again. I do enjoy the use of a flatpak installation as you can control what the software can do on your machine a lot easier utilizing a program like flatseal.&lt;/p&gt;
-&lt;p&gt;Find the Zen Browser &lt;a href=&#34;zen-browser.app/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Keebio Iris Rev 8 Review</title>
-      <link>https://itsnoss.com/reviews/keebio-iris-rev-8/</link>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://itsnoss.com/reviews/keebio-iris-rev-8/</guid>
-      <description>&lt;h2 id=&#34;backstory&#34;&gt;Backstory&lt;/h2&gt;
-&lt;p&gt;Since I was 16, I have had back issues. When I was 19, I was officially diagnosed with scholiosis. This causes pain all over my body but can usually start from my lower back or my shoulders/neck area. I actively make changes in my lifestyle in an attempt to avoid the pain that I endur everyday. Two years ago, I was working and couldn&amp;rsquo;t hold my mouse or type on my keyboard without pain shooting through my arms. I was 20 and about a year and a half into my IT career and I thought it was about to come to an end. A year and a half later, I found out about split keyboards after watching The Primeagen talk about using a split keyboard. I thought they were ugly and dumb. Fast forward a few months and that pain is back again but this time it was more frequent. I told myself I can push through it, wondering if this is something I could endur my whole life. Recently I saw Primeagen &lt;a href=&#34;https://www.youtube.com/watch?v=UrxkO4DM67M&#34;&gt;talk about the glove 80&lt;/a&gt;. I gave it some serious thought but then I decided not to. Then I saw a lot of other videos about split keyboards. They were primarily mentioning how they reduce strain in the neck/shoulders area. This was an area that causes pain but I had never tried to stop the pain there before. I did no research to see if that is true, I just decided to jump in. The pre-built ones were out of my price range&amp;hellip; until I found the Keebio Iris Rev 8. I could afford it and I wanted it to be a gateway into my new split keyboard addiction.&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;backstory&#34;&gt;Backstory&lt;/h2&gt;
-&lt;p&gt;Since I was 16, I have had back issues. When I was 19, I was officially diagnosed with scholiosis. This causes pain all over my body but can usually start from my lower back or my shoulders/neck area. I actively make changes in my lifestyle in an attempt to avoid the pain that I endur everyday. Two years ago, I was working and couldn&amp;rsquo;t hold my mouse or type on my keyboard without pain shooting through my arms. I was 20 and about a year and a half into my IT career and I thought it was about to come to an end. A year and a half later, I found out about split keyboards after watching The Primeagen talk about using a split keyboard. I thought they were ugly and dumb. Fast forward a few months and that pain is back again but this time it was more frequent. I told myself I can push through it, wondering if this is something I could endur my whole life. Recently I saw Primeagen &lt;a href=&#34;https://www.youtube.com/watch?v=UrxkO4DM67M&#34;&gt;talk about the glove 80&lt;/a&gt;. I gave it some serious thought but then I decided not to. Then I saw a lot of other videos about split keyboards. They were primarily mentioning how they reduce strain in the neck/shoulders area. This was an area that causes pain but I had never tried to stop the pain there before. I did no research to see if that is true, I just decided to jump in. The pre-built ones were out of my price range&amp;hellip; until I found the Keebio Iris Rev 8. I could afford it and I wanted it to be a gateway into my new split keyboard addiction.&lt;/p&gt;
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;The Keebio Iris Rev 8 is a split ergonomic keyboard by Keebio. This is my first split or even ergonomic keyboard but I have really enjoyed the month I’ve been using the iris and will likely continue using it but I do now have my eyes on some others with less keys already.&lt;/p&gt;
-&lt;h2 id=&#34;purchasing-experience&#34;&gt;Purchasing Experience&lt;/h2&gt;
-&lt;p&gt;The main part you’re needing from Keebio is the PCB, stand offs and screws (I’m sure you can get your own stand offs and screws as well but I have not looked into it) as they offer files to CNC or 3D print your own case. The switches and key caps can also be your own. I love that Keebio allows you to choose which parts you want to purchase incase you don’t want to go with their plates, middle layer etc.&lt;/p&gt;
-&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
-&lt;p&gt;Enough about the purchasing experience, lets talk about the device. It’s DIY so you have to build it but it’s as easy as screwing everything together. The only physical complaint I have is some keys are hard to press with my hands. This has nothing to do with the keyboard and has everything to do with the size of my hands. Keycaps were hard to find that are Ortholinear. Keebio offers keycaps for it that have legends but I decided to seek out a set myself for added customization. The only set that I could find was a set of blank PBT keycaps from &lt;a href=&#34;https://a.co/d/0dmJnwFb&#34;&gt;Amazon&lt;/a&gt;. This Posed a problem as I was not a touch typer but instead, I had found my own way of typing over the years that was efficient for me. I had to learn touch typing but turns out, I was able to pick it up pretty fast.&lt;/p&gt;
-&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
-&lt;p&gt;In terms of software, you have a few options. &lt;a href=&#34;usevia.app&#34;&gt;via&lt;/a&gt;, &lt;a href=&#34;https://qmk.fm/&#34;&gt;qmk&lt;/a&gt; and &lt;a href=&#34;https://get.vial.today/&#34;&gt;vial&lt;/a&gt;. Via is simple to use, use a chrome browser, go to the website and make your changes. This does not offer lots of customization but is great for beginners to make simple changes. QMK is harder to use but it’s the best by far in customization. QMK has to be written in C and then compiled before flashing it on your device. Lastly is Vial, vial is a good middle ground whereas it offers more customization then via but it’s easier then QMK. I’m not going to go into too much detail on using any of them but you can check out my vial configuration &lt;a href=&#34;https://github.com/NotNoss/iris-rev8-vial&#34;&gt;here&lt;/a&gt;. I am still debating on making the change to QMK to add a feature where my keyboard RGB changes based on the layer I am on.&lt;/p&gt;
-&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;The Keebio Iris Rev 8 is a great keyboard especially for beginners. The price makes it an attractive starting point for beginners. I can see myself using this keyboard for a while but will likely eventually look at a smaller one with less keys.&lt;/p&gt;
 </content>
     </item>
     
