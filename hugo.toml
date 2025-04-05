@@ -27,10 +27,10 @@ theme = "re-terminal"
   #   pageref = "/projects/"
   #   weight = 20
 
-  [[menus.main]]
-    name = "Guides"
-    pageref = "/guides/"
-    weight = 30
+  # [[menus.main]]
+  #   name = "Guides"
+  #   pageref = "/guides/"
+  #   weight = 30
     
   [[menus.main]]
     name = "Reviews"
