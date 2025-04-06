@@ -3,8 +3,6 @@ import re
 import shutil
 import sys
 
-print()
-
 # Paths
 posts_dir = f"/home/noss/Projects/noss-site/content/{sys.argv[1]}/"
 attachments_dir = "/home/noss/Documents/Docs/Noss-Site/static/images/"
